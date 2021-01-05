@@ -1,0 +1,65 @@
+html
+{
+    scroll-behavior: smooth;
+}
+body
+{
+    background-color: white;
+}
+
+
+div.AboutUs
+{
+    font-style: Arial;
+    text-align: justify;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}
+
+
+div.footer
+{
+    position: bottom;
+    padding: 20px;
+    width: 100%;
+    background-color: #006747;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
+img
+{
+	width: 100%;	
+}
+
+
+div.contact
+{
+	text-align: left;
+	font-size: 175%;
+}
+
+
+.nav.navbar-nav li a {
+    color: #ffffff;
+    text-align: center;
+}
+
+.nav.navbar-nav li a:hover {
+
+    background-color: #f42a41;
+}
+
+.nav.navbar-nav li a:visited {
+
+    background-color: #f42a41;
+}
+
+.nav.navbar-nav li a:active {
+
+    background-color: #f42a41;
+}
