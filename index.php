@@ -19,8 +19,8 @@
 </head>
 <body>
 
-<nav class="navbar" style="background-color: #006747;">
-	<div class="container">
+<nav class="navbar navbar-default navbar-fixed-top" style="background-color: #006747;">
+	<div class="container-fluid">
     <ul class="nav navbar-nav" style="color: #ffffff;">
       <li><a href="https://www.profullo.com/">Home</a></li>
       <li><a href="#about">About</a></li>
@@ -126,7 +126,7 @@
 </div>
 
 <div class="container">
-	<h3>Please Submit feedback</h3>
+	<h3>Please Submit your feedback</h3>
 	<form action="form-process.php" method="POST">
 		<div class="form-group">
 			<label for="firstname">Firstname</label>
