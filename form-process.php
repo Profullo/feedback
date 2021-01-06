@@ -6,6 +6,6 @@ $result = $mysqli->query($sql);
 if(!$result){
     die("Couldn't enter data: ".$mysqli->error);
 }
-echo "Thank You For Contacting Us ";
+echo " Submitting Successfully !! Thank You For Contacting Us :) ";
 $mysqli->close();
 ?>

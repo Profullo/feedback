@@ -193,7 +193,7 @@
 
 <!--footer section-->
 <div class="footer">
-   <p>&copy; Profullo 2020</p>
+   <p>&copy; All Rights Reserved By Profullo 2021</p>
 </div>
 </body>
 </html>
